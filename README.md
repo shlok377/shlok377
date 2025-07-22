@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on llama3.2 based LLM Chatbot<br>🌱 I’m currently learning LLM Tuning and Frontend Develpoment<br>⚡ I’m currently a First Year Computer Engineering Student
+🔭 I’m currently working on llama3.2 based LLM Chatbot<br>🌱 I’m currently learning LLM Tuning and Frontend Develpoment<br>⚡ I’m currently a First Year Computer Engineering Student<br>✨ I’m currently working on a Data Analyzing chatbot
 
 
 # 💻 Tech Stack:
